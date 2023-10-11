@@ -3,7 +3,7 @@
 <div>
     <a href="https://github.com/mavigpimenta/">
     <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=mavigpimenta&show_icons=true&theme=radical"&include_all_commits=true&count_private=true>
-    <img height="160cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mavigpimenta&layout=compact&langs_count=7&theme=radical">
+    <img height="160cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mavigpimenta&layout=compact&langs_count=7&theme=dracula">
 </div>
         
 ##
