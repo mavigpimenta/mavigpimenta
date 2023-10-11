@@ -6,4 +6,4 @@
     <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavigpimenta&layout=compact&langs_count=168theme=radical">
 </div>
 
-(https://github.com/rafaballerini2/mavigpimenta/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/mavigpimenta/blob/output/github-contribution-grid-snake.svg)
