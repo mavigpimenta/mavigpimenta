@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://github.com/mavigpimenta/">
-    <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=mavigpimenta&show_icons=true&theme=radical"&include_all_commits=true&count_private=true>
+    <img background-color="black" height="160cm" src="https://github-readme-stats.vercel.app/api?username=mavigpimenta&show_icons=true&theme=radical"&include_all_commits=true&count_private=true >
     <img height="160cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mavigpimenta&layout=compact&langs_count=7&theme=dracula">
 </div>
         
@@ -16,7 +16,7 @@
     
 ##
    
-  <div style="backgroundcolor: black"> 
+  <div > 
     <a href="https://instagram.com/wzxmavis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/mariagpimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:mariapimenta2607@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
