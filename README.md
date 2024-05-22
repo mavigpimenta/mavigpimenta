@@ -18,6 +18,8 @@
     <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"">
     <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/mavigpimenta/mavigpimenta/assets/143026523/f6036b17-32c8-4820-89d8-0f84dc4e6d1b)
+">
   </div>
     
 ##
