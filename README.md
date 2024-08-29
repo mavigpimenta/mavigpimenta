@@ -19,6 +19,7 @@
     <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
   </div>
     
 ##
